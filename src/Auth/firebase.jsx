@@ -7,13 +7,13 @@ import { getFirestore } from "firebase/firestore"; // Import firestore module
 import { getAuth } from "firebase/auth";
 // Firebase is available after the script is loaded
 const firebaseConfig = {
-  apiKey: "AIzaSyDF72681dY91QYzgqdTVnCf1EtOcGFeS-M",
-  authDomain: "e-commerce-1f616.firebaseapp.com",
-  projectId: "e-commerce-1f616",
-  storageBucket: "e-commerce-1f616.appspot.com",
-  messagingSenderId: "22868744350",
-  appId: "1:22868744350:web:19f20d01385d9e097ac38f",
-  measurementId: "G-0LFDPZ8CR9",
+  apiKey: "AIzaSyACiX6EnlHZfWRId8oeX7XVh1ojK7wO8PQ",
+  authDomain: "eko-survey.firebaseapp.com",
+  projectId: "eko-survey",
+  storageBucket: "eko-survey.firebasestorage.app",
+  messagingSenderId: "603050109694",
+  appId: "1:603050109694:web:1893f3024880ba691453af",
+  measurementId: "G-12G8DY3E2P"
 };
 let app;
 let auth;
